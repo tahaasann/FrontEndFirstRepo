@@ -1,0 +1,19 @@
+git init -- ilk kez proje oluşturur
+
+git add -- dosya veya tüm dosyaları seçebiliriz
+git add <dosya ismi>
+git add. --> tüm dosyalar (yüklemek istemediğimiz dosyalar için gitignore dosyası oluşturulmalı)
+
+git commit -m 'aciklama' --> snapshot alabiliyoruz (çalışmanın geldiğim kısmına not bırakmak gibi)
+
+git status
+
+git diff --> dosyalar ile yapılan degisiklikleri gosterir.
+
+git checkout <branchName>--> branch(dal) lar arası gecis yapabiliyoruz
+
+git push --> dosyayi uzaktaki sunucuya iletebiliyoruz
+
+git pull --> sunucudan çalışma dosyasını bulabiliyoruz ( git bul :))
+
+git clone --> bir repo yu klonlayabiliyoruz
