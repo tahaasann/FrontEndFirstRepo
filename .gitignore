@@ -1,0 +1,10 @@
+*.jpg
+*.png
+logo.jpg
+img/
+
+*.mp4
+
+*.log
+
+password.txt
